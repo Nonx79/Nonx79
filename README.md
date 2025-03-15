@@ -3,7 +3,7 @@
 **About Me:**
 
 - I'm currently studying Computer Engineering.
-- I’m currently working on __[Nagy](https://github.com/Nonx79/Nagy-Original)__.
+- I’m currently working on Nagy.
 - I love making stories, mechanics, etc.
   
 **Languages:**
